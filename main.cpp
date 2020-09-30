@@ -76,4 +76,5 @@ int main() {
         std::cout << i << " ";
     }
     return 0;
+    // не осилил bitonic sort, попробую дома доделать
 }
